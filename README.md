@@ -25,6 +25,12 @@ Web application for a forum system, allowing users to authenticate, view, commen
 - 🔧 Tehnologies : Java 17, Spring Boot, REST API, MariaDB, Hibernate, Mockito Unit Testing, HTML / CSS, Spring MVC, Thymeleaf
 - ⚡Key Achievements : Implement front end
 
+### 3. [Gas Stations](https://github.com/KarinaIvanova01/GasStations)
+A microservice that retrieves the current gas station data on every start and prepares them to be stored in a database (only open station).
+
+- 🔧 Tehnologies : Java 17, MVC, JPA, SQL, Spring Cloud OpenFeign, Spring Boot
+⚡Key Achievements : Working with web database
+
 ## Tech Skills 💻
 - **Core Programming:** Multidimensional Arrays, Debugging, Git
 - **Object-Oriented Programming (OOP):** Classes, Objects, Encapsulation, Inheritance, Polymorphism, Abstraction, Exception Handling, Java Collections Framework, Generics, Unit Testing, Lambdas & Stream API, Java Internals
