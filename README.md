@@ -29,7 +29,7 @@ Web application for a forum system, allowing users to authenticate, view, commen
 A microservice that retrieves the current gas station data on every start and prepares them to be stored in a database (only open station).
 
 - 🔧 Tehnologies : Java 17, MVC, JPA, SQL, Spring Cloud OpenFeign, Spring Boot
-⚡Key Achievements : Working with web database
+- ⚡Key Achievements : Working with web database
 
 ## Tech Skills 💻
 - **Core Programming:** Multidimensional Arrays, Debugging, Git
